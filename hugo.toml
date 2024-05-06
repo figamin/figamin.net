@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://figamin.net'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "figamin's attic"
 theme = 'figtheme'
