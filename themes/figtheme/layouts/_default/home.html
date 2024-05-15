@@ -1,9 +1,0 @@
-{{ define "main" }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
-  <br><br><script id="umaring_js" src="https://umaring.mkr.cx/ring.js?id=figamin"></script>
-<div id="umaring"></div>
-{{ end }}

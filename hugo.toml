@@ -1,4 +1,3 @@
 baseURL = 'https://figamin.net'
 languageCode = 'en-us'
 title = "figamin's attic"
-theme = 'figtheme'

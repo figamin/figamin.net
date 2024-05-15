@@ -1,8 +1,0 @@
-baseURL = 'https://figamin.net'
-languageCode = 'en-us'
-title = 'figamin'
-
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.116.0"
